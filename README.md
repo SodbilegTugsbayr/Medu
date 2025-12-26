@@ -1,8 +1,4 @@
-# Go Nuxt Boilerplate
-
-### Pre
-
-Install frontend dependencies using `cd frontend && yarn install`.
+# Medu
 
 ### Run
 
